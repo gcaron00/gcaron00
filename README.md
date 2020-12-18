@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-<!--
-**gcaron00/gcaron00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am 20-year-old computer science student at the University of North Carolina Chapel hill. I came into college as a biology major, but quickly realized computer science to be my calling.  I am drawn to the logic, problem solving and sense that solving problems with code seems more like a satisfying puzzle than a chore. My passion, paired with my persistence, means I see everything through to completion; this is something I really pride myself on.
+I also am passionate about sports, food and being outdoors. I am actively involved on campus; I play on the UNC Ice Hockey Team and am a member of the Alpha Epsilon Delta (AED) chapter at my college, a pre-health society that I volunteer with though. 
+Within the realm of computer science, I have garnered an interest in computational medicine and data science. In fact, over the last few semesters, I have worked with a professor to develop various machine learning models to help with the prediction and diagnosis of neurological conditions. 
+Lastly, I do have a few years of employment experience, though not in computer science. However, I am excited to gain more experience in the industry and make a positive impact in the workplace, particularly by bringing my passion, persistence, and creativity to the job.
+
 
 Here are some ideas to get you started:
 
