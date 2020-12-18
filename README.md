@@ -4,4 +4,4 @@
 
 - Within the realm of computer science, I have garnered an interest in computational medicine 💓 and data science 📈 . 
 
-- Im aim to gain more hands on experience in these fields via colaberation 👯, competitions 🏁 and coursework ✏️! 
+- I’m aiming to gain more hands on experience in these fields via collaboration 👯, competitions 🏁 and coursework ✏️!
